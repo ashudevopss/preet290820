@@ -1,3 +1,0 @@
-file1.txt new file
-new line2 in file1.txt
-new line3 in file1.txt
